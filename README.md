@@ -1,6 +1,6 @@
 # BINF_AAtranslation_Py
 
-#For this code, I used a genetic code file that looks like this
+#For this python program, I used a genetic code file that looks like this
 
 #AAs    = FFLLSSSSYY**CC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG
 #Starts = ---M---------------M------------MMMM---------------M------------
